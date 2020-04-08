@@ -1,5 +1,5 @@
 # anota-es-spring-mvc-thymeleaf
-Software útil para fazer uma lista de atividade!!
+Software útil para fazer uma lista de atividades!!
 
 Instruções de uso:
 <br/>
