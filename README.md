@@ -5,13 +5,13 @@
 
 ### Instruções de uso:
 
-1- Digite o que queira listar como atividade a ser feita no local indicado;
+1- Digite o que queira listar como atividade a ser feita no local indicado;<br/>
   1.2- Por padrão, esta atividade recém informada será listada como "a fazer".
 
-2- Para atualizar e mudar de status uma atividade de "a fazer" para "feito": 
+2- Para atualizar e mudar de status uma atividade de "a fazer" para "feito": <br/>
   2.1- Clique no icone simbolizado por um lápis na tabela que fica abaixo de onde se registram as atividades;<br/>
   2.2- No campo "status" escolha a opção "feito";<br/>
-  2.3- Clique no botão "salvar".
+  2.3- Clique no botão "salvar".<br/>
   
 3- Para excluir uma atividade, feita ou a fazer: <br/>
   3.1- é necessário um click na figura de um "X" que fica na linha da tabela que a atividade se encontra.
